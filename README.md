@@ -26,6 +26,13 @@ Com mais de 14 anos de experiência no mercado comercial, minha trajetória me l
 
 Vamos embarcar nesta jornada tecnológica juntos! Sinta-se à vontade para explorar meus repositórios, seguir meu perfil e entrar em contato para trocar ideias, colaborar em projetos ou apenas para uma conversa amigável. O futuro é emocionante, e estou animada para fazer parte dele junto com você! 
 
+    Desenvolvimento front-end;
+    Desenvolvimento back-end;
+    Back-end e DBA (Database Administrator ou Administrador de Banco de Dados);
+    Tecnologias importantes para front-end e back-end;
+    Front-end vs Back-end; e
+    Desenvolvimento mobile.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40RobertaPaes-blue)](https://www.linkedin.com/in/roberta-paes/)
 
 
