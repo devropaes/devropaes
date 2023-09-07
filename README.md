@@ -26,7 +26,8 @@ Com mais de 14 anos de experiência no mercado comercial, minha trajetória me l
 
 Vamos embarcar nesta jornada tecnológica juntos! Sinta-se à vontade para explorar meus repositórios, seguir meu perfil e entrar em contato para trocar ideias, colaborar em projetos ou apenas para uma conversa amigável. O futuro é emocionante, e estou animada para fazer parte dele junto com você! 
 
-[![LinkedIn][![LinkedIn](https://img.shields.io/badge/LinkedIn-%40SeuNome-blue)](https://www.linkedin.com/in/roberta-paes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40RobertaPaes-blue)](https://www.linkedin.com/in/roberta-paes/)
+
 
 <!--
 **devropaes/devropaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
