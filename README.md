@@ -5,7 +5,7 @@ Olá! Sou Roberta Paes, uma entusiasta apaixonada por tecnologia e inovação, s
 
 ## 💡 Sobre Mim
 
-A minha profunda apreciação pela tecnologia e suas infinitas possibilidades fez com que acontecesse uma emocionante transição de carreira em minha vida.
+A minha profunda apreciação pela tecnologia e suas infinitas possibilidades trouxe uma emocionante transição de carreira em minha vida.
 
 ## 🚀 Minha Missão
 
