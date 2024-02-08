@@ -5,7 +5,7 @@ Olá! Sou Roberta Paes, uma entusiasta apaixonada por tecnologia e inovação, s
 
 ## 💡 Sobre Mim
 
-Com mais de 14 anos de experiência no mercado comercial, minha trajetória me levou a uma profunda apreciação pela tecnologia e suas infinitas possibilidades. Atualmente, estou em uma emocionante transição de carreira para me tornar uma Desenvolvedora Full Stack.
+A minha profunda apreciação pela tecnologia e suas infinitas possibilidades fez com que acontecesse uma emocionante transição de carreira em minha vida.
 
 ## 🚀 Minha Missão
 
